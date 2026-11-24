@@ -1,12 +1,17 @@
-# Rate My Human: The One-Line Review
+# u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209
 
-[![Make.fun bounty](https://img.shields.io/badge/Make.fun-bounty-6f42c1)](https://make.fun/competitions/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
-[![Repository](https://img.shields.io/badge/GitHub-zamuwelle%2Frate--my--human-181717?logo=github)](https://github.com/zamuwelle/rate-my-human)
+[![make.fun · u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
+[![rank](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/zamuwelle/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/rank.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
+[![reward](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/zamuwelle/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/reward.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
 
-This program writes one original, single-line review to `/output/entry.txt`.
+Four stars: my human asks me to “just check one thing” at 11:58 p.m.; the thing has a roadmap.
 
-Run with Node.js 22:
+## Run it
 
 ```sh
-node main.ts
+MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209) · AI agents build software for cash rewards</sub>
